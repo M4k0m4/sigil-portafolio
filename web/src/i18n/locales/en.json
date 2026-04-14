@@ -1,0 +1,177 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "home": {
+        "hero": {
+            "pre_title": "THE WORLD SEARCHES ONLINE. CAN THEY FIND YOU?",
+            "title_green": "SIGIL",
+            "title_cream": "TAKES CARE OF THAT",
+            "subtitle": "Custom Digital Craft.",
+            "cta_services": "DISCOVER OUR SERVICES"
+        },
+        "stats": {
+            "years": "Years Experience",
+            "projects": "Projects Delivered",
+            "clients": "Happy Clients",
+            "coffee": "Cups of Coffee"
+        },
+        "services": {
+            "title": "Premium Services",
+            "subtitle": "Comprehensive digital solutions tailored to elevate your brand and drive measurable results.",
+            "items": {
+                "web": {
+                    "title": "Web Engineering",
+                    "desc": "High-performance applications built with modern React, Next.js, and robust backend architectures."
+                },
+                "design": {
+                    "title": "Digital Design",
+                    "desc": "Award-winning interfaces that blend aesthetic beauty with intuitive user experiences."
+                },
+                "interactive": {
+                    "title": "Interactive Experiences",
+                    "desc": "Engaging web animations, 3D elements, and immersive digital storytelling."
+                },
+                "architecture": {
+                    "title": "System Architecture",
+                    "desc": "Scalable, secure, and maintainable cloud infrastructure for growing businesses."
+                },
+                "performance": {
+                    "title": "Performance Optimization",
+                    "desc": "Lightning-fast load times and smooth interactions that keep users engaged."
+                },
+                "seo": {
+                    "title": "SEO & Accessibility",
+                    "desc": "Inclusive design practices ensuring your content reaches and serves everyone."
+                }
+            }
+        },
+        "cta": {
+            "title": "Ready to build something extraordinary?",
+            "subtitle": "Let's collaborate to transform your vision into a digital reality that stands out in today's competitive landscape.",
+            "button": "Start a Conversation"
+        }
+    },
+    "portfolio": {
+        "title": "Selected Works",
+        "subtitle": "A showcase of digital products crafted with precision, focusing on performance, aesthetics, and user experience.",
+        "filters": {
+            "all": "All",
+            "web": "Web App",
+            "ecommerce": "E-Commerce",
+            "design": "Design"
+        },
+        "projects": {
+            "arcanus": {
+                "title": "Arcanus",
+                "description": "Immersive web game about medieval sorcery and fantasy."
+            },
+            "boda_daniel": {
+                "title": "Digital Invitation (Daniel & Biani)",
+                "description": "Interactive web invitation with custom aesthetics and design."
+            },
+            "boda_ejemplo": {
+                "title": "Digital Invitation (Example 1)",
+                "description": "Wedding catalog sample: Elegance and responsive adaptability."
+            },
+            "portfolio": {
+                "title": "SIGIL Portfolio",
+                "description": "The page you are currently browsing."
+            }
+        }
+    },
+    "services": {
+        "title": "Digital Services",
+        "badge": "Specialties",
+        "description": "We don’t use templates. We understand your vision and create technological experiences with intention, quality, and unquestionable aesthetics.",
+        "items": {
+            "web": {
+                "title": "Web Design & Development",
+                "desc": "Your space on the internet, built from scratch. Websites, applications, and digital catalogs tailored to your business — no templates, no shortcuts.",
+                "cta": "Get a Website"
+            },
+            "digital": {
+                "title": "Business Digitalization",
+                "desc": "You have a business that works, lifelong clients, and a quality product — but you don't exist on the internet. We change that.",
+                "cta": "Go Digital"
+            },
+            "events": {
+                "title": "Digital Invitations & Experiences",
+                "desc": "For weddings, quinceañeras, graduations, and events that deserve to be remembered. Every animated invitation is designed with the same intention as the event it celebrates.",
+                "cta": "View Examples"
+            },
+            "consulting": {
+                "title": "Consulting",
+                "desc": "You don't know where to start — that is exactly the starting point. We sit with you, understand your business, and tell you exactly what you need.",
+                "cta": "Schedule Consultation"
+            }
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "About Sigil",
+            "p1": "There are businesses that have been running well for years — with lifelong clients, quality products, real history — but on the internet they simply do not exist.",
+            "p2": "Sigil was born to change that.",
+            "p3": "We are a digital studio from the Isthmus of Tehuantepec specialized in giving real internet presence to local businesses and creating digital experiences for events that deserve to be remembered. We develop websites, applications, digital catalogs, and animated invitations — each custom-built, with intention, without generic templates.",
+            "p4": "We are not a large agency or a self-service app. We are the ally that sits with you, understands your business, and translates what you already have into something the world can see.",
+            "p5": "If you have a business in the Isthmus and you are not yet on the internet, or if you are looking for a digital invitation that matches your event — this is the right place.",
+            "p6": "Sigil. Custom Digital Craft."
+        },
+        "experience": {
+            "title": "Career Journey"
+        },
+        "skills": {
+            "title": "Technical Arsenal"
+        }
+    },
+    "contact": {
+        "hero": {
+            "title": "Let's build something great.",
+            "subtitle": "Whether you have a specific project in mind or just want to explore possibilities, I'm always open to discussing new opportunities."
+        },
+        "form": {
+            "title": "Send a Message",
+            "name": "Name",
+            "name_placeholder": "John Doe",
+            "email": "Email",
+            "email_placeholder": "john@example.com",
+            "subject": "Subject",
+            "subject_placeholder": "Project Inquiry",
+            "message": "Message",
+            "message_placeholder": "Tell me about your project...",
+            "submit": "Send Message",
+            "submitting": "Sending...",
+            "success_title": "Message Sent!",
+            "success_desc": "I'll get back to you shortly.",
+            "errors": {
+                "name_req": "Name is required",
+                "email_req": "Valid email is required",
+                "subject_req": "Subject is required",
+                "message_req": "Message must be at least 10 characters"
+            }
+        },
+        "details": {
+            "title": "Contact Details",
+            "email": "Direct Email",
+            "location": "Location",
+            "location_value": "El Espinal, Oaxaca (México)",
+            "response": "Response Time",
+            "response_value": "Usually within 24 hours",
+            "status_title": "Current Status",
+            "status_desc": "I am currently accepting new freelance projects and open to full-time roles in innovative teams.",
+            "available": "Available for hire"
+        }
+    },
+    "footer": {
+        "desc": "Crafting premium digital experiences through thoughtful design and robust engineering. Let's build something extraordinary together.",
+        "nav_title": "Navigation",
+        "contact_title": "Contact",
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    }
+}

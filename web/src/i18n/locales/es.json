@@ -1,0 +1,177 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "portfolio": "Portafolio",
+        "services": "Servicios",
+        "about": "Conóceme",
+        "contact": "Contacto"
+    },
+    "home": {
+        "hero": {
+            "pre_title": "EL MUNDO BUSCA EN INTERNET. ¿TE ENCUENTRAN A TI?",
+            "title_green": "SIGIL",
+            "title_cream": "SE ENCARGA DE ESO",
+            "subtitle": "Arte Digital Personalizado.",
+            "cta_services": "CONOCE NUESTROS SERVICIOS"
+        },
+        "stats": {
+            "years": "Años de Experiencia",
+            "projects": "Proyectos Entregados",
+            "clients": "Clientes Felices",
+            "coffee": "Tazas de Café"
+        },
+        "services": {
+            "title": "Servicios Premium",
+            "subtitle": "Soluciones digitales integrales diseñadas para elevar tu marca y generar resultados medibles.",
+            "items": {
+                "web": {
+                    "title": "Ingeniería Web",
+                    "desc": "Aplicaciones de alto rendimiento construidas con React moderno, Next.js y arquitecturas backend robustas."
+                },
+                "design": {
+                    "title": "Diseño Digital",
+                    "desc": "Interfaces galardonadas que combinan belleza estética con experiencias de usuario intuitivas."
+                },
+                "interactive": {
+                    "title": "Experiencias Interactivas",
+                    "desc": "Animaciones web atractivas, elementos 3D y narración digital inmersiva."
+                },
+                "architecture": {
+                    "title": "Arquitectura de Sistemas",
+                    "desc": "Infraestructura en la nube escalable, segura y mantenible para empresas en crecimiento."
+                },
+                "performance": {
+                    "title": "Optimización de Rendimiento",
+                    "desc": "Tiempos de carga ultrarrápidos e interacciones fluidas que mantienen a los usuarios interesados."
+                },
+                "seo": {
+                    "title": "SEO y Accesibilidad",
+                    "desc": "Prácticas de diseño inclusivo que garantizan que tu contenido llegue y sirva a todos."
+                }
+            }
+        },
+        "cta": {
+            "title": "¿Listo para construir algo extraordinario?",
+            "subtitle": "Colaboremos para transformar tu visión en una realidad digital que destaque en el panorama competitivo actual.",
+            "button": "Iniciar una Conversación"
+        }
+    },
+    "portfolio": {
+        "title": "Trabajos Destacados",
+        "subtitle": "Una muestra de productos digitales elaborados con precisión, enfocados en el rendimiento, la estética y la experiencia del usuario.",
+        "filters": {
+            "all": "Todos",
+            "web": "App Web",
+            "ecommerce": "E-Commerce",
+            "design": "Diseño"
+        },
+        "projects": {
+            "arcanus": {
+                "title": "Arcanus",
+                "description": "Juego web inmersivo sobre hechicería medieval y fantasía."
+            },
+            "boda_daniel": {
+                "title": "Invitación Digital (Daniel & Biani)",
+                "description": "Invitación web interactiva con estética y diseño a medida."
+            },
+            "boda_ejemplo": {
+                "title": "Invitación Digital (Ejemplo 1)",
+                "description": "Muestra de catálogo de bodas: Elegancia y adaptabilidad responsiva."
+            },
+            "portfolio": {
+                "title": "Portafolio SIGIL",
+                "description": "La página en la que estás navegando actualmente."
+            }
+        }
+    },
+    "services": {
+        "title": "Servicios Digitales",
+        "badge": "Especialidades",
+        "description": "No usamos plantillas. Entendemos tu visión y creamos experiencias tecnológicas con intención, calidad y estética incuestionable.",
+        "items": {
+            "web": {
+                "title": "Diseño y Desarrollo Web",
+                "desc": "Tu espacio en internet, construido desde cero. Sitios web, aplicaciones y catálogos digitales hechos a la medida de tu negocio — sin plantillas, sin atajos.",
+                "cta": "Quiero mi sitio"
+            },
+            "digital": {
+                "title": "Digitalización de Negocios",
+                "desc": "Tienes un negocio que funciona, clientes de toda la vida y producto de calidad — pero en internet no existes. Eso lo cambiamos.",
+                "cta": "Quiero digitalizarme"
+            },
+            "events": {
+                "title": "Invitaciones y Experiencias Digitales",
+                "desc": "Para bodas, quinceañeras, graduaciones y eventos que merecen ser recordados. Cada invitación animada, diseñada con la misma intención que el evento que celebra.",
+                "cta": "Ver ejemplos"
+            },
+            "consulting": {
+                "title": "Consultoría",
+                "desc": "No sabes por dónde empezar — ese es exactamente el punto de partida. Nos sentamos contigo, entendemos tu negocio y te decimos exactamente qué necesitas.",
+                "cta": "Agendar consulta"
+            }
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "Acerca de Sigil",
+            "p1": "Hay negocios que llevan años funcionando bien — con clientes de toda la vida, producto de calidad, historia de verdad — pero que en internet simplemente no existen.",
+            "p2": "Sigil nació para cambiar eso.",
+            "p3": "Somos un estudio digital del Istmo de Tehuantepec especializado en darle presencia real en internet a negocios locales y en crear experiencias digitales para eventos que merecen ser recordados. Desarrollamos sitios web, aplicaciones, catálogos digitales e invitaciones animadas — cada uno construido a la medida, con intención, sin plantillas genéricas.",
+            "p4": "No somos una agencia grande ni una app de autoservicio. Somos el aliado que se sienta contigo, entiende tu negocio y traduce lo que ya tienes en algo que el mundo puede ver.",
+            "p5": "Si tienes un negocio en el Istmo y todavía no estás en internet, o si buscas una invitación digital que esté a la altura de tu evento — este es el lugar correcto.",
+            "p6": "Sigil. Arte Digital Personalizado."
+        },
+        "experience": {
+            "title": "Trayectoria Profesional"
+        },
+        "skills": {
+            "title": "Arsenal Técnico"
+        }
+    },
+    "contact": {
+        "hero": {
+            "title": "Construyamos algo genial.",
+            "subtitle": "Ya sea que tengas un proyecto específico en mente o simplemente quieras explorar posibilidades, siempre estoy abierto a discutir nuevas oportunidades."
+        },
+        "form": {
+            "title": "Enviar un Mensaje",
+            "name": "Nombre",
+            "name_placeholder": "Juan Pérez",
+            "email": "Correo Electrónico",
+            "email_placeholder": "juan@ejemplo.com",
+            "subject": "Asunto",
+            "subject_placeholder": "Consulta de Proyecto",
+            "message": "Mensaje",
+            "message_placeholder": "Cuéntame sobre tu proyecto...",
+            "submit": "Enviar Mensaje",
+            "submitting": "Enviando...",
+            "success_title": "¡Mensaje Enviado!",
+            "success_desc": "Me pondré en contacto contigo en breve.",
+            "errors": {
+                "name_req": "El nombre es obligatorio",
+                "email_req": "Se requiere un correo válido",
+                "subject_req": "El asunto es obligatorio",
+                "message_req": "El mensaje debe tener al menos 10 caracteres"
+            }
+        },
+        "details": {
+            "title": "Detalles de Contacto",
+            "email": "Correo Directo",
+            "location": "Ubicación",
+            "location_value": "El Espinal, Oaxaca (México)",
+            "response": "Tiempo de Respuesta",
+            "response_value": "Usualmente dentro de 24 horas",
+            "status_title": "Estado Actual",
+            "status_desc": "Actualmente acepto nuevos proyectos independientes y estoy abierto a roles de tiempo completo en equipos innovadores.",
+            "available": "Disponible para contratar"
+        }
+    },
+    "footer": {
+        "desc": "Creando experiencias digitales premium a través de un diseño reflexivo y una ingeniería robusta. Construyamos algo extraordinario juntos.",
+        "nav_title": "Navegación",
+        "contact_title": "Contacto",
+        "rights": "Todos los derechos reservados.",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Servicio"
+    }
+}
