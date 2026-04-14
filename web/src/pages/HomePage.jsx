@@ -11,8 +11,8 @@ import SkillBadge from '../components/SkillBadge';
 import bgImage from '../assets/logo Marfil sin fondo.png'; 
 import bgVideo from '../assets/Fondo.mp4';
 import arcanusImg from '../assets/Logo Arcanus.png';
-import bodaImg from '../assets/Invitacion Boda Daniel & Biani.png';
-import bodaEjemploImg from '../assets/Invitación Boda Ejemplo 1.png';
+import bodaImg from '../assets/invitacion-boda-daniel-biani.png';
+import bodaEjemploImg from '../assets/invitacion-boda-ejemplo-1.png';
 import portafolioImg from '../assets/logo Marfil sin fondo.png';
 
 const HomePage = () => {

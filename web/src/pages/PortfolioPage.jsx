@@ -4,8 +4,8 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import ProjectCard from '../components/ProjectCard';
 import arcanusImg from '../assets/Logo Arcanus.png';
-import bodaImg from '../assets/Invitacion Boda Daniel & Biani.png';
-import bodaEjemploImg from '../assets/Invitación Boda Ejemplo 1.png';
+import bodaImg from '../assets/invitacion-boda-daniel-biani.png';
+import bodaEjemploImg from '../assets/invitacion-boda-ejemplo-1.png';
 import portafolioImg from '../assets/logo Marfil sin fondo.png';
 
 const PortfolioPage = () => {
@@ -13,29 +13,29 @@ const PortfolioPage = () => {
 
     const projects = [
         {
-            title: t('portfolio.projects.arcanus.title'),
-            description: t('portfolio.projects.arcanus.description'),
+            title: "Arcanus",
+            description: "Juego web inmersivo sobre hechicería medieval y fantasía.",
             image: arcanusImg,
             technologies: ["HTML5", "CSS3", "JavaScript"],
             link: "https://arcanusv8.netlify.app/"
         },
         {
-            title: t('portfolio.projects.boda_daniel.title'),
-            description: t('portfolio.projects.boda_daniel.description'),
+            title: "Invitación Digital (Daniel & Biani)",
+            description: "Invitación web interactiva con estética y diseño a medida.",
             image: bodaImg,
             technologies: ["React", "CSS3", "Vite"],
             link: "https://bodadanielybiani2027.netlify.app/"
         },
         {
-            title: t('portfolio.projects.boda_ejemplo.title'),
-            description: t('portfolio.projects.boda_ejemplo.description'),
+            title: "Invitación Digital (Ejemplo 1)",
+            description: "Muestra de catálogo de bodas: Elegancia y adaptabilidad responsiva.",
             image: bodaEjemploImg,
             technologies: ["React", "Tailwind CSS"],
             link: "https://invitacionbodaejemplo1.netlify.app/"
         },
         {
-            title: t('portfolio.projects.portfolio.title'),
-            description: t('portfolio.projects.portfolio.description'),
+            title: "Portafolio SIGIL",
+            description: "La página en la que estás navegando actualmente.",
             image: portafolioImg,
             technologies: ["React", "Tailwind CSS", "Framer Motion"],
             link: "/"
